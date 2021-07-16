@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\bin\Debug\netcoreapp3.1\AtEnumeraçao.exe
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\bin\Debug\netcoreapp3.1\AtEnumeraçao.deps.json
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\bin\Debug\netcoreapp3.1\AtEnumeraçao.runtimeconfig.json
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\bin\Debug\netcoreapp3.1\AtEnumeraçao.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\bin\Debug\netcoreapp3.1\AtEnumeraçao.dll
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\bin\Debug\netcoreapp3.1\AtEnumeraçao.pdb
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\obj\Debug\netcoreapp3.1\AtEnumeraçao.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\obj\Debug\netcoreapp3.1\AtEnumeraçao.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\obj\Debug\netcoreapp3.1\AtEnumeraçao.AssemblyInfo.cs
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\obj\Debug\netcoreapp3.1\AtEnumeraçao.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\obj\Debug\netcoreapp3.1\AtEnumeraçao.dll
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\obj\Debug\netcoreapp3.1\AtEnumeraçao.pdb
+C:\Users\pc\Downloads\Curso c#\AtEnumeraçao\AtEnumeraçao\obj\Debug\netcoreapp3.1\AtEnumeraçao.genruntimeconfig.cache
